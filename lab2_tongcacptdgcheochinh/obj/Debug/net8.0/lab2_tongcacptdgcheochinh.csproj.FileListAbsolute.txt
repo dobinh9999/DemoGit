@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\bin\Debug\net8.0\lab2_tongcacptdgcheochinh.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\bin\Debug\net8.0\lab2_tongcacptdgcheochinh.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\bin\Debug\net8.0\lab2_tongcacptdgcheochinh.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\bin\Debug\net8.0\lab2_tongcacptdgcheochinh.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\bin\Debug\net8.0\lab2_tongcacptdgcheochinh.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\refint\lab2_tongcacptdgcheochinh.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\lab2_tongcacptdgcheochinh.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_tongcacptdgcheochinh\obj\Debug\net8.0\ref\lab2_tongcacptdgcheochinh.dll

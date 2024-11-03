@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\bin\Debug\net8.0\hanghoa.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\bin\Debug\net8.0\hanghoa.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\bin\Debug\net8.0\hanghoa.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\bin\Debug\net8.0\hanghoa.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\bin\Debug\net8.0\hanghoa.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\refint\hanghoa.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\hanghoa.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\hanghoa\obj\Debug\net8.0\ref\hanghoa.dll

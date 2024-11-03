@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\bin\Debug\net8.0\bai2.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\bin\Debug\net8.0\bai2.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\bin\Debug\net8.0\bai2.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\bin\Debug\net8.0\bai2.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\refint\bai2.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai2\obj\Debug\net8.0\ref\bai2.dll

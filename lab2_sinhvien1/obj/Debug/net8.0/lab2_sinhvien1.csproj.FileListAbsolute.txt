@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\bin\Debug\net8.0\lab2_sinhvien1.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\bin\Debug\net8.0\lab2_sinhvien1.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\bin\Debug\net8.0\lab2_sinhvien1.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\bin\Debug\net8.0\lab2_sinhvien1.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\bin\Debug\net8.0\lab2_sinhvien1.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\refint\lab2_sinhvien1.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\lab2_sinhvien1.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_sinhvien1\obj\Debug\net8.0\ref\lab2_sinhvien1.dll

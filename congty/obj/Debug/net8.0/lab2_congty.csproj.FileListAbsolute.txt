@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\bin\Debug\net8.0\lab2_congty.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\bin\Debug\net8.0\lab2_congty.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\bin\Debug\net8.0\lab2_congty.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\bin\Debug\net8.0\lab2_congty.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\bin\Debug\net8.0\lab2_congty.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\refint\lab2_congty.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\lab2_congty.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\congty\obj\Debug\net8.0\ref\lab2_congty.dll

@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\bin\Debug\net8.0\lab2_bai3_matran.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\bin\Debug\net8.0\lab2_bai3_matran.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\bin\Debug\net8.0\lab2_bai3_matran.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\bin\Debug\net8.0\lab2_bai3_matran.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\bin\Debug\net8.0\lab2_bai3_matran.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\refint\lab2_bai3_matran.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\lab2_bai3_matran.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai3_matran\obj\Debug\net8.0\ref\lab2_bai3_matran.dll

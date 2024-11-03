@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\bin\Debug\net8.0\lab2_bai5_xaukytu.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\bin\Debug\net8.0\lab2_bai5_xaukytu.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\bin\Debug\net8.0\lab2_bai5_xaukytu.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\bin\Debug\net8.0\lab2_bai5_xaukytu.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\bin\Debug\net8.0\lab2_bai5_xaukytu.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\refint\lab2_bai5_xaukytu.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\lab2_bai5_xaukytu.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab2_bai5_xaukytu\obj\Debug\net8.0\ref\lab2_bai5_xaukytu.dll

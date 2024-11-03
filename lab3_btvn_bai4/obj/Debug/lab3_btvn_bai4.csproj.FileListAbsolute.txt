@@ -1,0 +1,7 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\bin\Debug\lab3_btvn_bai4.exe.config
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\bin\Debug\lab3_btvn_bai4.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\bin\Debug\lab3_btvn_bai4.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\obj\Debug\lab3_btvn_bai4.csproj.AssemblyReference.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\obj\Debug\lab3_btvn_bai4.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\obj\Debug\lab3_btvn_bai4.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab3_btvn_bai4\obj\Debug\lab3_btvn_bai4.pdb

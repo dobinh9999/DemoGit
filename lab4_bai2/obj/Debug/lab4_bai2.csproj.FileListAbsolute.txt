@@ -1,0 +1,10 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\bin\Debug\lab4_bai2.exe.config
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\bin\Debug\lab4_bai2.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\bin\Debug\lab4_bai2.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.csproj.AssemblyReference.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.Form1.resources
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.Properties.Resources.resources
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.csproj.GenerateResource.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\lab4_bai2\obj\Debug\lab4_bai2.pdb

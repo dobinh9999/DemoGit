@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\bin\Debug\net8.0\Lab2_bai1_SinhVienUneti.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\bin\Debug\net8.0\Lab2_bai1_SinhVienUneti.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\bin\Debug\net8.0\Lab2_bai1_SinhVienUneti.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\bin\Debug\net8.0\Lab2_bai1_SinhVienUneti.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\bin\Debug\net8.0\Lab2_bai1_SinhVienUneti.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\refint\Lab2_bai1_SinhVienUneti.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\Lab2_bai1_SinhVienUneti.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\SinhVienUneti\obj\Debug\net8.0\ref\Lab2_bai1_SinhVienUneti.dll

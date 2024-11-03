@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IT78bUhPR3g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\84394\\source\\repos\\bài tập thưc hành lập trình NET\\lab2_bai3_matran\\lab2_bai3_matran.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84394\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\84394\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\84394\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

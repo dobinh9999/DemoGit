@@ -1,0 +1,28 @@
+C:\Users\84394\source\repos\Person\Person\bin\Debug\net8.0\Person.exe
+C:\Users\84394\source\repos\Person\Person\bin\Debug\net8.0\Person.deps.json
+C:\Users\84394\source\repos\Person\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+C:\Users\84394\source\repos\Person\Person\bin\Debug\net8.0\Person.dll
+C:\Users\84394\source\repos\Person\Person\bin\Debug\net8.0\Person.pdb
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.dll
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\refint\Person.dll
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.pdb
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+C:\Users\84394\source\repos\Person\Person\obj\Debug\net8.0\ref\Person.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\bin\Debug\net8.0\Person.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\bin\Debug\net8.0\Person.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\bin\Debug\net8.0\Person.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\bin\Debug\net8.0\Person.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\refint\Person.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\Person\obj\Debug\net8.0\ref\Person.dll

@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\bin\Debug\net8.0\person1.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\bin\Debug\net8.0\person1.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\bin\Debug\net8.0\person1.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\bin\Debug\net8.0\person1.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\bin\Debug\net8.0\person1.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\refint\person1.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\person1.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\person1\obj\Debug\net8.0\ref\person1.dll

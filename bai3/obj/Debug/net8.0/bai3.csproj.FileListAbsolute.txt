@@ -1,0 +1,14 @@
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\bin\Debug\net8.0\bai3.exe
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\bin\Debug\net8.0\bai3.deps.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\bin\Debug\net8.0\bai3.runtimeconfig.json
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\bin\Debug\net8.0\bai3.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\bin\Debug\net8.0\bai3.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.AssemblyInfoInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.AssemblyInfo.cs
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.csproj.CoreCompileInputs.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\refint\bai3.dll
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.pdb
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\bai3.genruntimeconfig.cache
+C:\Users\84394\source\repos\bài tập thưc hành lập trình NET\bai3\obj\Debug\net8.0\ref\bai3.dll
